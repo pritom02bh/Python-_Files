@@ -23,3 +23,11 @@ full = f"NAME: {first} {last}"
 print(full)
 
 # String Method:
+
+title = '  data scientist  '
+print(title.upper())
+print(title.strip())
+print(title.find("scientist"))\
+
+print("Engineer" in title)
+print("data" in title) 
